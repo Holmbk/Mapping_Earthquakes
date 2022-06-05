@@ -5,6 +5,7 @@ __pycache__/
 config.js
 # C extensions
 *.so
+config.js
 
 # Distribution / packaging
 .Python
